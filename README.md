@@ -67,7 +67,7 @@
     <img src="https://skillicons.dev/icons?i=sass" alt="sass" height="40" width="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" height="40" width="40" />
   </a>
 </p>
 
